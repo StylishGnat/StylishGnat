@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on [N/A]
 - 📫 How to reach me: Via Github.
 
+- :pushpin: My code may not be optimized or may have room for improvement, so feel free to help me improve it! :yum:
+
 <!---
 StylishGnat/StylishGnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
